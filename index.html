@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabla Periódica Inteligente</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Roboto+Mono&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style_v5.css">
+    <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.0.1/model-viewer.min.js"></script>
+    <script nomodule src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.0.1/model-viewer-legacy.js"></script>
+</head>
+<body>
+    <h1>Tabla Periódica Inteligente</h1>
+    <div class="main-container">
+        <div class="grid-container" id="periodic-table">
+                </div>
+            <div class="grid-container lanthanide-actinide-block" id="lanthanides-actinides-block">
+                </div>
+        <div class="table-and-search-container">
+            <input type="text" id="search-bar" placeholder="Buscar elemento por nombre o símbolo...">
+            <div class="legend">
+                <div class="legend-item"><span class="legend-color-box group-gas-noble"></span>Gas Noble</div>
+                <div class="legend-item"><span class="legend-color-box group-no-metal"></span>No Metal</div>
+                <div class="legend-item"><span class="legend-color-box group-halogeno"></span>Halógeno</div>
+                <div class="legend-item"><span class="legend-color-box group-metaloide"></span>Metaloide</div>
+                <div class="legend-item"><span class="legend-color-box group-metal-alcalino"></span>Metal Alcalino</div>
+                <div class="legend-item"><span class="legend-color-box group-metal-alcalinoterreo"></span>Metal Alcalinotérreo</div>
+                <div class="legend-item"><span class="legend-color-box group-metal-de-transicion"></span>Metal de Transición</div>
+                <div class="legend-item"><span class="legend-color-box group-metal-del-bloque-p"></span>Metal del Bloque p</div>
+                <div class="legend-item"><span class="legend-color-box group-lantanido"></span>Lantánido</div>
+                <div class="legend-item"><span class="legend-color-box group-actinido"></span>Actínido</div>
+                <div class="legend-item"><span class="legend-color-box group-desconocido"></span>Propiedad desconocida</div>
+            </div>
+            
+        </div>
+    </div>
+    
+    <!-- Popup para mostrar detalles del elemento -->
+    <div id="element-popup" class="popup">
+        <div class="popup-container">
+            <div class="popup-header">
+                <div class="popup-element-basic-info">
+                    <div class="popup-element-symbol" id="popup-element-symbol">F</div>
+                    <div class="popup-element-name-number">
+                        <h1 class="popup-element-name" id="popup-element-name">Flúor</h1>
+                        <div class="popup-element-number" id="popup-element-number">Número Atómico: 9</div>
+                    </div>
+                    <div class="popup-element-group" id="popup-element-group">Halógeno</div>
+                </div>
+                <button class="popup-close-btn">×</button>
+            </div>
+            
+            <div class="popup-content">
+                <div class="popup-model-section">
+                    <div class="popup-model-container">
+                        <model-viewer 
+                            id="popup-atom-model" 
+                            alt="Modelo 3D del átomo" 
+                            src="" 
+                            camera-controls 
+                            autoplay="true" 
+                            rotation-per-second="2"
+                            camera-orbit="0deg 75deg 200%"
+                            field-of-view="70deg"
+                            ar
+                            style="width: 100%; height: 100%;">
+                        </model-viewer>
+                    </div>
+                    
+                    <div class="popup-atom-stats">
+                        <div class="popup-stat-card">
+                            <div class="popup-stat-value" id="popup-stat-protons">9</div>
+                            <div class="popup-stat-label">Protones</div>
+                        </div>
+                        <div class="popup-stat-card">
+                            <div class="popup-stat-value" id="popup-stat-neutrons">10</div>
+                            <div class="popup-stat-label">Neutrones</div>
+                        </div>
+                        <div class="popup-stat-card">
+                            <div class="popup-stat-value" id="popup-stat-electrons">9</div>
+                            <div class="popup-stat-label">Electrones</div>
+                        </div>
+                        <div class="popup-stat-card">
+                            <div class="popup-stat-value" id="popup-stat-shells">2-7</div>
+                            <div class="popup-stat-label">Capas</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="popup-details-section">
+                    <h2 class="popup-section-title">Propiedades del Elemento</h2>
+                    
+                    <div class="popup-properties-grid">
+                        <div class="popup-property">
+                            <div class="popup-property-label">Masa Atómica</div>
+                            <div class="popup-property-value" id="popup-property-mass">18.998 u</div>
+                        </div>
+                        
+                        <div class="popup-property">
+                            <div class="popup-property-label">Punto de Fusión</div>
+                            <div class="popup-property-value" id="popup-property-melting">53.53 K</div>
+                        </div>
+                        
+                        <div class="popup-property">
+                            <div class="popup-property-label">Punto de Ebullición</div>
+                            <div class="popup-property-value" id="popup-property-boiling">85.03 K</div>
+                        </div>
+                        
+                        <div class="popup-property">
+                            <div class="popup-property-label">Densidad</div>
+                            <div class="popup-property-value" id="popup-property-density">1.696 g/cm³</div>
+                        </div>
+                        
+                        <div class="popup-property">
+                            <div class="popup-property-label">Estado a 25°C</div>
+                            <div class="popup-property-value" id="popup-property-state">Gas</div>
+                        </div>
+                        
+                        <div class="popup-property">
+                            <div class="popup-property-label">Electronegatividad</div>
+                            <div class="popup-property-value" id="popup-property-electronegativity">3.98 (Pauling)</div>
+                        </div>
+                    </div>
+                    
+                    <div class="popup-property popup-full-width">
+                        <div class="popup-property-label">Configuración Electrónica</div>
+                        <div class="popup-electron-config" id="popup-property-electron-config">[He] 2s² 2p⁵</div>
+                    </div>
+                    
+                    <div class="popup-discovery-info">
+                        <div class="popup-discovery-title">Datos de Descubrimiento</div>
+                        <p id="popup-discovery-info-text">Descubierto por: Henri Moissan (1886)<br>Origen del nombre: Del latín "fluere" (fluir)</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="elements.js"></script>
+    <script src="script_v5.js"></script>
+</body>
+</html>
