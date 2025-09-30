@@ -1,0 +1,723 @@
+[
+  {
+    "number": 1,
+    "symbol": "H",
+    "name": "Hidrógeno",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_001_hydrogen/element_001_hydrogen.glb",
+    "model3d_local": "modelos_3d/element_001_hidrogeno.glb"
+  },
+  {
+    "number": 2,
+    "symbol": "He",
+    "name": "Helio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_002_helium/element_002_helium.glb",
+    "model3d_local": "modelos_3d/element_002_helio.glb"
+  },
+  {
+    "number": 3,
+    "symbol": "Li",
+    "name": "Litio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_003_lithium/element_003_lithium.glb",
+    "model3d_local": "modelos_3d/element_003_litio.glb"
+  },
+  {
+    "number": 4,
+    "symbol": "Be",
+    "name": "Berilio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_004_beryllium/element_004_beryllium.glb",
+    "model3d_local": "modelos_3d/element_004_berilio.glb"
+  },
+  {
+    "number": 5,
+    "symbol": "B",
+    "name": "Boro",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_005_boron/element_005_boron.glb",
+    "model3d_local": "modelos_3d/element_005_boro.glb"
+  },
+  {
+    "number": 6,
+    "symbol": "C",
+    "name": "Carbono",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_006_carbon/element_006_carbon.glb",
+    "model3d_local": "modelos_3d/element_006_carbono.glb"
+  },
+  {
+    "number": 7,
+    "symbol": "N",
+    "name": "Nitrógeno",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_007_nitrogen/element_007_nitrogen.glb",
+    "model3d_local": "modelos_3d/element_007_nitrogeno.glb"
+  },
+  {
+    "number": 8,
+    "symbol": "O",
+    "name": "Oxígeno",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_008_oxygen/element_008_oxygen.glb",
+    "model3d_local": "modelos_3d/element_008_oxigeno.glb"
+  },
+  {
+    "number": 9,
+    "symbol": "F",
+    "name": "Flúor",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_009_fluorine/element_009_fluorine.glb",
+    "model3d_local": "modelos_3d/element_009_fluor.glb"
+  },
+  {
+    "number": 10,
+    "symbol": "Ne",
+    "name": "Neón",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_010_neon/element_010_neon.glb",
+    "model3d_local": "modelos_3d/element_010_neon.glb"
+  },
+  {
+    "number": 11,
+    "symbol": "Na",
+    "name": "Sodio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_011_sodium/element_011_sodium.glb",
+    "model3d_local": "modelos_3d/element_011_sodio.glb"
+  },
+  {
+    "number": 12,
+    "symbol": "Mg",
+    "name": "Magnesio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_012_magnesium/element_012_magnesium.glb",
+    "model3d_local": "modelos_3d/element_012_magnesio.glb"
+  },
+  {
+    "number": 13,
+    "symbol": "Al",
+    "name": "Aluminio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_013_aluminum/element_013_aluminum.glb",
+    "model3d_local": "modelos_3d/element_013_aluminio.glb"
+  },
+  {
+    "number": 14,
+    "symbol": "Si",
+    "name": "Silicio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_014_silicon/element_014_silicon.glb",
+    "model3d_local": "modelos_3d/element_014_silicio.glb"
+  },
+  {
+    "number": 15,
+    "symbol": "P",
+    "name": "Fósforo",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_015_phosphorus/element_015_phosphorus.glb",
+    "model3d_local": "modelos_3d/element_015_fosforo.glb"
+  },
+  {
+    "number": 16,
+    "symbol": "S",
+    "name": "Azufre",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_016_sulfur/element_016_sulfur.glb",
+    "model3d_local": "modelos_3d/element_016_azufre.glb"
+  },
+  {
+    "number": 17,
+    "symbol": "Cl",
+    "name": "Cloro",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_017_chlorine/element_017_chlorine.glb",
+    "model3d_local": "modelos_3d/element_017_cloro.glb"
+  },
+  {
+    "number": 18,
+    "symbol": "Ar",
+    "name": "Argón",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_018_argon/element_018_argon.glb",
+    "model3d_local": "modelos_3d/element_018_argon.glb"
+  },
+  {
+    "number": 19,
+    "symbol": "K",
+    "name": "Potasio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_019_potassium/element_019_potassium.glb",
+    "model3d_local": "modelos_3d/element_019_potasio.glb"
+  },
+  {
+    "number": 20,
+    "symbol": "Ca",
+    "name": "Calcio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_020_calcium/element_020_calcium.glb",
+    "model3d_local": "modelos_3d/element_020_calcio.glb"
+  },
+  {
+    "number": 21,
+    "symbol": "Sc",
+    "name": "Escandio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_021_scandium/element_021_scandium.glb",
+    "model3d_local": "modelos_3d/element_021_escandio.glb"
+  },
+  {
+    "number": 22,
+    "symbol": "Ti",
+    "name": "Titanio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_022_titanium/element_022_titanium.glb",
+    "model3d_local": "modelos_3d/element_022_titanio.glb"
+  },
+  {
+    "number": 23,
+    "symbol": "V",
+    "name": "Vanadio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_023_vanadium/element_023_vanadium.glb",
+    "model3d_local": "modelos_3d/element_023_vanadio.glb"
+  },
+  {
+    "number": 24,
+    "symbol": "Cr",
+    "name": "Cromo",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_024_chromium/element_024_chromium.glb",
+    "model3d_local": "modelos_3d/element_024_cromo.glb"
+  },
+  {
+    "number": 25,
+    "symbol": "Mn",
+    "name": "Manganeso",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_025_manganese/element_025_manganese.glb",
+    "model3d_local": "modelos_3d/element_025_manganeso.glb"
+  },
+  {
+    "number": 26,
+    "symbol": "Fe",
+    "name": "Hierro",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_026_iron/element_026_iron.glb",
+    "model3d_local": "modelos_3d/element_026_hierro.glb"
+  },
+  {
+    "number": 27,
+    "symbol": "Co",
+    "name": "Cobalto",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_027_cobalt/element_027_cobalt.glb",
+    "model3d_local": "modelos_3d/element_027_cobalto.glb"
+  },
+  {
+    "number": 28,
+    "symbol": "Ni",
+    "name": "Níquel",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_028_nickel/element_028_nickel.glb",
+    "model3d_local": "modelos_3d/element_028_niquel.glb"
+  },
+  {
+    "number": 29,
+    "symbol": "Cu",
+    "name": "Cobre",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_029_copper/element_029_copper.glb",
+    "model3d_local": "modelos_3d/element_029_cobre.glb"
+  },
+  {
+    "number": 30,
+    "symbol": "Zn",
+    "name": "Zinc",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_030_zinc/element_030_zinc.glb",
+    "model3d_local": "modelos_3d/element_030_zinc.glb"
+  },
+  {
+    "number": 31,
+    "symbol": "Ga",
+    "name": "Galio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_031_gallium/element_031_gallium.glb",
+    "model3d_local": "modelos_3d/element_031_galio.glb"
+  },
+  {
+    "number": 32,
+    "symbol": "Ge",
+    "name": "Germanio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_032_germanium/element_032_germanium.glb",
+    "model3d_local": "modelos_3d/element_032_germanio.glb"
+  },
+  {
+    "number": 33,
+    "symbol": "As",
+    "name": "Arsénico",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_033_arsenic/element_033_arsenic.glb",
+    "model3d_local": "modelos_3d/element_033_arsenico.glb"
+  },
+  {
+    "number": 34,
+    "symbol": "Se",
+    "name": "Selenio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_034_selenium/element_034_selenium.glb",
+    "model3d_local": "modelos_3d/element_034_selenio.glb"
+  },
+  {
+    "number": 35,
+    "symbol": "Br",
+    "name": "Bromo",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_035_bromine/element_035_bromine.glb",
+    "model3d_local": "modelos_3d/element_035_bromo.glb"
+  },
+  {
+    "number": 36,
+    "symbol": "Kr",
+    "name": "Kriptón",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_036_krypton/element_036_krypton.glb",
+    "model3d_local": "modelos_3d/element_036_kripton.glb"
+  },
+  {
+    "number": 37,
+    "symbol": "Rb",
+    "name": "Rubidio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_037_rubidium/element_037_rubidium.glb",
+    "model3d_local": "modelos_3d/element_037_rubidio.glb"
+  },
+  {
+    "number": 38,
+    "symbol": "Sr",
+    "name": "Estroncio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_038_strontium/element_038_strontium.glb",
+    "model3d_local": "modelos_3d/element_038_estroncio.glb"
+  },
+  {
+    "number": 39,
+    "symbol": "Y",
+    "name": "Itrio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_039_yttrium/element_039_yttrium.glb",
+    "model3d_local": "modelos_3d/element_039_itrio.glb"
+  },
+  {
+    "number": 40,
+    "symbol": "Zr",
+    "name": "Circonio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_040_zirconium/element_040_zirconium.glb",
+    "model3d_local": "modelos_3d/element_040_circonio.glb"
+  },
+  {
+    "number": 41,
+    "symbol": "Nb",
+    "name": "Niobio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_041_niobium/element_041_niobium.glb",
+    "model3d_local": "modelos_3d/element_041_niobio.glb"
+  },
+  {
+    "number": 42,
+    "symbol": "Mo",
+    "name": "Molibdeno",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_042_molybdenum/element_042_molybdenum.glb",
+    "model3d_local": "modelos_3d/element_042_molibdeno.glb"
+  },
+  {
+    "number": 43,
+    "symbol": "Tc",
+    "name": "Tecnecio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_043_technetium/element_043_technetium.glb",
+    "model3d_local": "modelos_3d/element_043_tecnecio.glb"
+  },
+  {
+    "number": 44,
+    "symbol": "Ru",
+    "name": "Rutenio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_044_ruthenium/element_044_ruthenium.glb",
+    "model3d_local": "modelos_3d/element_044_rutenio.glb"
+  },
+  {
+    "number": 45,
+    "symbol": "Rh",
+    "name": "Rodio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_045_rhodium/element_045_rhodium.glb",
+    "model3d_local": "modelos_3d/element_045_rodio.glb"
+  },
+  {
+    "number": 46,
+    "symbol": "Pd",
+    "name": "Paladio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_046_palladium/element_046_palladium.glb",
+    "model3d_local": "modelos_3d/element_046_paladio.glb"
+  },
+  {
+    "number": 47,
+    "symbol": "Ag",
+    "name": "Plata",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_047_silver/element_047_silver.glb",
+    "model3d_local": "modelos_3d/element_047_plata.glb"
+  },
+  {
+    "number": 48,
+    "symbol": "Cd",
+    "name": "Cadmio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_048_cadmium/element_048_cadmium.glb",
+    "model3d_local": "modelos_3d/element_048_cadmio.glb"
+  },
+  {
+    "number": 49,
+    "symbol": "In",
+    "name": "Indio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_049_indium/element_049_indium.glb",
+    "model3d_local": "modelos_3d/element_049_indio.glb"
+  },
+  {
+    "number": 50,
+    "symbol": "Sn",
+    "name": "Estaño",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_050_tin/element_050_tin.glb",
+    "model3d_local": "modelos_3d/element_050_estano.glb"
+  },
+  {
+    "number": 51,
+    "symbol": "Sb",
+    "name": "Antimonio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_051_antimony/element_051_antimony.glb",
+    "model3d_local": "modelos_3d/element_051_antimonio.glb"
+  },
+  {
+    "number": 52,
+    "symbol": "Te",
+    "name": "Telurio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_052_tellurium/element_052_tellurium.glb",
+    "model3d_local": "modelos_3d/element_052_telurio.glb"
+  },
+  {
+    "number": 53,
+    "symbol": "I",
+    "name": "Yodo",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_053_iodine/element_053_iodine.glb",
+    "model3d_local": "modelos_3d/element_053_yodo.glb"
+  },
+  {
+    "number": 54,
+    "symbol": "Xe",
+    "name": "Xenón",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_054_xenon/element_054_xenon.glb",
+    "model3d_local": "modelos_3d/element_054_xenon.glb"
+  },
+  {
+    "number": 55,
+    "symbol": "Cs",
+    "name": "Cesio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_055_cesium/element_055_cesium.glb",
+    "model3d_local": "modelos_3d/element_055_cesio.glb"
+  },
+  {
+    "number": 56,
+    "symbol": "Ba",
+    "name": "Bario",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_056_barium/element_056_barium.glb",
+    "model3d_local": "modelos_3d/element_056_bario.glb"
+  },
+  {
+    "number": 57,
+    "symbol": "La",
+    "name": "Lantano",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_057_lanthanum/element_057_lanthanum.glb",
+    "model3d_local": "modelos_3d/element_057_lantano.glb"
+  },
+  {
+    "number": 58,
+    "symbol": "Ce",
+    "name": "Cerio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_058_cerium/element_058_cerium.glb",
+    "model3d_local": "modelos_3d/element_058_cerio.glb"
+  },
+  {
+    "number": 59,
+    "symbol": "Pr",
+    "name": "Praseodimio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_059_praseodymium/element_059_praseodymium.glb",
+    "model3d_local": "modelos_3d/element_059_praseodimio.glb"
+  },
+  {
+    "number": 60,
+    "symbol": "Nd",
+    "name": "Neodimio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_060_neodymium/element_060_neodymium.glb",
+    "model3d_local": "modelos_3d/element_060_neodimio.glb"
+  },
+  {
+    "number": 61,
+    "symbol": "Pm",
+    "name": "Prometio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_061_promethium/element_061_promethium.glb",
+    "model3d_local": "modelos_3d/element_061_prometio.glb"
+  },
+  {
+    "number": 62,
+    "symbol": "Sm",
+    "name": "Samario",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_062_samarium/element_062_samarium.glb",
+    "model3d_local": "modelos_3d/element_062_samario.glb"
+  },
+  {
+    "number": 63,
+    "symbol": "Eu",
+    "name": "Europio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_063_europium/element_063_europium.glb",
+    "model3d_local": "modelos_3d/element_063_europio.glb"
+  },
+  {
+    "number": 64,
+    "symbol": "Gd",
+    "name": "Gadolinio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_064_gadolinium/element_064_gadolinium.glb",
+    "model3d_local": "modelos_3d/element_064_gadolinio.glb"
+  },
+  {
+    "number": 65,
+    "symbol": "Tb",
+    "name": "Terbio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_065_terbium/element_065_terbium.glb",
+    "model3d_local": "modelos_3d/element_065_terbio.glb"
+  },
+  {
+    "number": 66,
+    "symbol": "Dy",
+    "name": "Disprosio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_066_dysprosium/element_066_dysprosium.glb",
+    "model3d_local": "modelos_3d/element_066_disprosio.glb"
+  },
+  {
+    "number": 67,
+    "symbol": "Ho",
+    "name": "Holmio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_067_holmium/element_067_holmium.glb",
+    "model3d_local": "modelos_3d/element_067_holmio.glb"
+  },
+  {
+    "number": 68,
+    "symbol": "Er",
+    "name": "Erbio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_068_erbium/element_068_erbium.glb",
+    "model3d_local": "modelos_3d/element_068_erbio.glb"
+  },
+  {
+    "number": 69,
+    "symbol": "Tm",
+    "name": "Tulio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_069_thulium/element_069_thulium.glb",
+    "model3d_local": "modelos_3d/element_069_tulio.glb"
+  },
+  {
+    "number": 70,
+    "symbol": "Yb",
+    "name": "Iterbio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_070_ytterbium/element_070_ytterbium.glb",
+    "model3d_local": "modelos_3d/element_070_iterbio.glb"
+  },
+  {
+    "number": 71,
+    "symbol": "Lu",
+    "name": "Lutecio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_071_lutetium/element_071_lutetium.glb",
+    "model3d_local": "modelos_3d/element_071_lutecio.glb"
+  },
+  {
+    "number": 72,
+    "symbol": "Hf",
+    "name": "Hafnio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_072_hafnium/element_072_hafnium.glb",
+    "model3d_local": "modelos_3d/element_072_hafnio.glb"
+  },
+  {
+    "number": 73,
+    "symbol": "Ta",
+    "name": "Tantalio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_073_tantalum/element_073_tantalum.glb",
+    "model3d_local": "modelos_3d/element_073_tantalio.glb"
+  },
+  {
+    "number": 74,
+    "symbol": "W",
+    "name": "Wolframio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_074_tungsten/element_074_tungsten.glb",
+    "model3d_local": "modelos_3d/element_074_wolframio.glb"
+  },
+  {
+    "number": 75,
+    "symbol": "Re",
+    "name": "Renio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_075_rhenium/element_075_rhenium.glb",
+    "model3d_local": "modelos_3d/element_075_renio.glb"
+  },
+  {
+    "number": 76,
+    "symbol": "Os",
+    "name": "Osmio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_076_osmium/element_076_osmium.glb",
+    "model3d_local": "modelos_3d/element_076_osmio.glb"
+  },
+  {
+    "number": 77,
+    "symbol": "Ir",
+    "name": "Iridio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_077_iridium/element_077_iridium.glb",
+    "model3d_local": "modelos_3d/element_077_iridio.glb"
+  },
+  {
+    "number": 78,
+    "symbol": "Pt",
+    "name": "Platino",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_078_platinum/element_078_platinum.glb",
+    "model3d_local": "modelos_3d/element_078_platino.glb"
+  },
+  {
+    "number": 79,
+    "symbol": "Au",
+    "name": "Oro",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_079_gold/element_079_gold.glb",
+    "model3d_local": "modelos_3d/element_079_oro.glb"
+  },
+  {
+    "number": 80,
+    "symbol": "Hg",
+    "name": "Mercurio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_080_mercury/element_080_mercury.glb",
+    "model3d_local": "modelos_3d/element_080_mercurio.glb"
+  },
+  {
+    "number": 81,
+    "symbol": "Tl",
+    "name": "Talio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_081_thallium/element_081_thallium.glb",
+    "model3d_local": "modelos_3d/element_081_talio.glb"
+  },
+  {
+    "number": 82,
+    "symbol": "Pb",
+    "name": "Plomo",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_082_lead/element_082_lead.glb",
+    "model3d_local": "modelos_3d/element_082_plomo.glb"
+  },
+  {
+    "number": 83,
+    "symbol": "Bi",
+    "name": "Bismuto",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_083_bismuth/element_083_bismuth.glb",
+    "model3d_local": "modelos_3d/element_083_bismuto.glb"
+  },
+  {
+    "number": 84,
+    "symbol": "Po",
+    "name": "Polonio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_084_polonium/element_084_polonium.glb",
+    "model3d_local": "modelos_3d/element_084_polonio.glb"
+  },
+  {
+    "number": 85,
+    "symbol": "At",
+    "name": "Astato",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_085_astatine/element_085_astatine.glb",
+    "model3d_local": "modelos_3d/element_085_astato.glb"
+  },
+  {
+    "number": 86,
+    "symbol": "Rn",
+    "name": "Radón",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_086_radon/element_086_radon.glb",
+    "model3d_local": "modelos_3d/element_086_radon.glb"
+  },
+  {
+    "number": 87,
+    "symbol": "Fr",
+    "name": "Francio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_087_francium/element_087_francium.glb",
+    "model3d_local": "modelos_3d/element_087_francio.glb"
+  },
+  {
+    "number": 88,
+    "symbol": "Ra",
+    "name": "Radio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_088_radium/element_088_radium.glb",
+    "model3d_local": "modelos_3d/element_088_radio.glb"
+  },
+  {
+    "number": 89,
+    "symbol": "Ac",
+    "name": "Actinio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_089_actinium/element_089_actinium.glb",
+    "model3d_local": "modelos_3d/element_089_actinio.glb"
+  },
+  {
+    "number": 90,
+    "symbol": "Th",
+    "name": "Torio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_090_thorium/element_090_thorium.glb",
+    "model3d_local": "modelos_3d/element_090_torio.glb"
+  },
+  {
+    "number": 91,
+    "symbol": "Pa",
+    "name": "Protactinio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_091_protactinium/element_091_protactinium.glb",
+    "model3d_local": "modelos_3d/element_091_protactinio.glb"
+  },
+  {
+    "number": 92,
+    "symbol": "U",
+    "name": "Uranio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_092_uranium/element_092_uranium.glb",
+    "model3d_local": "modelos_3d/element_092_uranio.glb"
+  },
+  {
+    "number": 93,
+    "symbol": "Np",
+    "name": "Neptunio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_093_neptunium/element_093_neptunium.glb",
+    "model3d_local": "modelos_3d/element_093_neptunio.glb"
+  },
+  {
+    "number": 94,
+    "symbol": "Pu",
+    "name": "Plutonio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_094_plutonium/element_094_plutonium.glb",
+    "model3d_local": "modelos_3d/element_094_plutonio.glb"
+  },
+  {
+    "number": 95,
+    "symbol": "Am",
+    "name": "Americio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_095_americium/element_095_americium.glb",
+    "model3d_local": "modelos_3d/element_095_americio.glb"
+  },
+  {
+    "number": 96,
+    "symbol": "Cm",
+    "name": "Curio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_096_curium/element_096_curium.glb",
+    "model3d_local": "modelos_3d/element_096_curio.glb"
+  },
+  {
+    "number": 97,
+    "symbol": "Bk",
+    "name": "Berkelio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_097_berkelium/element_097_berkelium.glb",
+    "model3d_local": "modelos_3d/element_097_berkelio.glb"
+  },
+  {
+    "number": 98,
+    "symbol": "Cf",
+    "name": "Californio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_098_californium/element_098_californium.glb",
+    "model3d_local": "modelos_3d/element_098_californio.glb"
+  },
+  {
+    "number": 99,
+    "symbol": "Es",
+    "name": "Einstenio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_099_einsteinium/element_099_einsteinium.glb",
+    "model3d_local": "modelos_3d/element_099_einstenio.glb"
+  },
+  {
+    "number": 100,
+    "symbol": "Fm",
+    "name": "Fermio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_100_fermium/element_100_fermium.glb",
+    "model3d_local": "modelos_3d/element_100_fermio.glb"
+  },
+  {
+    "number": 101,
+    "symbol": "Md",
+    "name": "Mendelevio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_101_mendelevium/element_101_mendelevium.glb",
+    "model3d_local": "modelos_3d/element_101_mendelevio.glb"
+  },
+  {
+    "number": 102,
+    "symbol": "No",
+    "name": "Nobelio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_102_nobelium/element_102_nobelium.glb",
+    "model3d_local": "modelos_3d/element_102_nobelio.glb"
+  },
+  {
+    "number": 103,
+    "symbol": "Lr",
+    "name": "Lawrencio",
+    "model3d": "https://storage.googleapis.com/search-ar-edu/periodic-table/element_103_lawrencium/element_103_lawrencium.glb",
+    "model3d_local": "modelos_3d/element_103_lawrencio.glb"
+  }
+]
